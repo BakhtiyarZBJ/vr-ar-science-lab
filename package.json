@@ -1,0 +1,1 @@
+{"name":"vr-ar-science-lab","version":"1.0.0","private":true,"description":"Учебный браузерный симулятор. Автор: Бахтияр Жарлыкасов. Разработано в Codex.","scripts":{"test":"node --test tests/core.test.cjs","start":"python3 -m http.server 8080 --directory dist"}}
